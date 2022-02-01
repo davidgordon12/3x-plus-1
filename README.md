@@ -1,5 +1,5 @@
 # 3x-plus-1
-Infamous math problem 3x+1
+Infamous math problem 3x+1. 
 Great video explaining the history of the problem by Veritasium, here: https://www.youtube.com/watch?v=094y1Z2wpJg
 
 ## TL;DR
